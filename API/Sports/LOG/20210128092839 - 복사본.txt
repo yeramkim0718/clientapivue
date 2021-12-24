@@ -1,0 +1,12 @@
+aic
+time_out 6
+connection_error 2
+
+eic
+time_out 16
+
+connection_error 30
+응답 안온건 4
+
+kic
+

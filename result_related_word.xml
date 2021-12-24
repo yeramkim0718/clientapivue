@@ -1,0 +1,2702 @@
+<DATA>
+
+	<ROW>
+		<href>495</href>
+		<word>맛있다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>1</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>305</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>진하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>10</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>32</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>유명하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>2</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>69</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>부드럽다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>3</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>52</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>다양하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>4</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>51</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>깔끔하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>5</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>50</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>고소하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>6</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>42</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>가능하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>7</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>시원하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>8</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>33</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>495</href>
+		<word>적당하다</word>
+		<content_id>tv_6010</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>맛있는 녀석들</program>
+		<priority>9</priority>
+		<channel>iHQ</channel>
+		<days>금</days>
+		<amount>32</amount>
+		<genre>예능</genre>
+		<start_date>2015.01.30</start_date>
+		<end_date>-</end_date>
+		<director>김대웅</director>
+		<writer></writer>
+		<casts>유민상,김준현,김민경,문세윤</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>귀엽다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>1</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>114</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>다양하다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>10</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>45</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>재밌다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>2</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>98</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>궁금하다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>3</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>93</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>예쁘다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>4</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>78</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>이쁘다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>5</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>74</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>잘생기다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>6</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>56</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>설레다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>7</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>55</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>새롭다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>8</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>52</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11618</href>
+		<word>괜찮다</word>
+		<content_id>tv_23108</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>학교 2021</program>
+		<priority>9</priority>
+		<channel>KBS2</channel>
+		<days>수목</days>
+		<amount>47</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.24</start_date>
+		<end_date>-</end_date>
+		<director>김민태,홍은미</director>
+		<writer>동희선,조아라</writer>
+		<casts>김요한,조이현,추영우,황보름별,김강민</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>재밌다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>1</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>304</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>새롭다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>10</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>98</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>행복하다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>2</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>221</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>아프다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>3</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>189</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>궁금하다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>4</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>148</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>슬프다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>5</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>145</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>힘들다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>6</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>143</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>귀엽다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>7</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>143</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>예쁘다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>8</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>129</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11556</href>
+		<word>괜찮다</word>
+		<content_id>tv_23002</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>연모</program>
+		<priority>9</priority>
+		<channel>KBS2</channel>
+		<days>월화</days>
+		<amount>126</amount>
+		<genre>드라마</genre>
+		<start_date>2021.10.11</start_date>
+		<end_date>-</end_date>
+		<director>송현욱,이현석</director>
+		<writer>한희정</writer>
+		<casts>박은빈,로운,남윤수,배윤경,최병찬,정채연,배수빈</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>싫다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>1</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>111</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>저렇다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>10</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>53</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>귀엽다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>2</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>97</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>재밌다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>3</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>85</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>예쁘다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>4</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>77</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>궁금하다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>5</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>71</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>답답하다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>6</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>62</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>이상하다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>7</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>58</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>두근거리다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>8</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>57</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>11532</href>
+		<word>불안하다</word>
+		<content_id>tv_22955</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>신사와 아가씨</program>
+		<priority>9</priority>
+		<channel>KBS2</channel>
+		<days>토일</days>
+		<amount>53</amount>
+		<genre>드라마</genre>
+		<start_date>2021.09.25</start_date>
+		<end_date>-</end_date>
+		<director>신창석</director>
+		<writer>김사경</writer>
+		<casts>지현우,이세희,강은탁,박하나,안우연,윤진이,김영옥</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>귀엽다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>1</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>98</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>이쁘다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>10</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>40</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>재밌다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>2</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>69</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>새롭다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>3</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>65</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>유명하다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>4</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>57</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>예쁘다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>5</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>57</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>다양하다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>6</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>51</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>궁금하다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>7</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>48</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>맛있다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>8</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>45</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>93</href>
+		<word>자세하다</word>
+		<content_id>tPJjqpP</content_id>
+		<contentset_id>com.lge.meta.crawler.watchaplay.WatchaPlayCrawler</contentset_id>
+		<program>나혼자산다</program>
+		<priority>9</priority>
+		<channel>MBC</channel>
+		<days>금</days>
+		<amount>43</amount>
+		<genre>예능</genre>
+		<start_date>2013.03.22</start_date>
+		<end_date>-</end_date>
+		<director>황지영</director>
+		<writer>이경하,김희경,한영신,강서림,김하리</writer>
+		<casts>전현무,기안84,박나래,한혜진,이시언,헨리</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>귀엽다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>1</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>41</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>궁금하다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>10</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>16</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>고맙다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>2</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>29</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>새롭다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>3</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>23</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>솔직하다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>4</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>22</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>다양하다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>5</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>22</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>재밌다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>6</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>21</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>활발하다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>7</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>17</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>훈훈하다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>8</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>17</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>6</href>
+		<word>예쁘다</word>
+		<content_id>tv_1615</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>라디오스타</program>
+		<priority>9</priority>
+		<channel>MBC</channel>
+		<days>수</days>
+		<amount>17</amount>
+		<genre>예능</genre>
+		<start_date>2007.05.30</start_date>
+		<end_date>-</end_date>
+		<director>한영롱</director>
+		<writer>곽상원,변은정,이향림,박미르내,이윤영,김한슬</writer>
+		<casts>김국진,김구라,안영미</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>설레다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>1</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>77</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>예쁘다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>10</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>재밌다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>2</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>47</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>다양하다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>3</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>44</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>자세하다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>4</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>40</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>힘들다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>5</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>40</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>이쁘다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>6</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>40</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>귀엽다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>7</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>38</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>새롭다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>8</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>36</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11651</href>
+		<word>궁금하다</word>
+		<content_id>tv_23150</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>방과후 설렘</program>
+		<priority>9</priority>
+		<channel>MBC</channel>
+		<days>일</days>
+		<amount>35</amount>
+		<genre>예능</genre>
+		<start_date>2021.11.28</start_date>
+		<end_date>-</end_date>
+		<director>박상현,백진수,서형원,유승혜,김은주</director>
+		<writer>안희진,장원미,박진주,황보배,김소영</writer>
+		<casts>윤균상,옥주현,권유리,아이키,소연</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>재밌다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>1</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>56</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>괜찮다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>10</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>26</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>다양하다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>2</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>50</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>새롭다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>3</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>50</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>궁금하다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>4</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>42</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>어렵다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>5</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>맛있다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>6</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>솔직하다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>7</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>33</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>예쁘다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>8</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>33</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>10738</href>
+		<word>귀엽다</word>
+		<content_id>tv_17216</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>놀면 뭐하니?</program>
+		<priority>9</priority>
+		<channel>MBC</channel>
+		<days>토</days>
+		<amount>32</amount>
+		<genre>예능</genre>
+		<start_date>2019.07.27</start_date>
+		<end_date>-</end_date>
+		<director>김태호,김윤집,장우성,왕종석</director>
+		<writer></writer>
+		<casts>유재석</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>맛있다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>1</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>99</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>두껍다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>10</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>31</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>굳다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>2</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>86</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>얇다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>3</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>52</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>부드럽다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>4</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>49</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>차갑다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>5</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>44</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>깊다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>6</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>39</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>굵다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>7</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>38</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>진하다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>8</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>38</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>56</href>
+		<word>깔끔하다</word>
+		<content_id>tv_6003</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>알토란</program>
+		<priority>9</priority>
+		<channel>MBN</channel>
+		<days>일</days>
+		<amount>32</amount>
+		<genre>예능</genre>
+		<start_date>2014.10.19</start_date>
+		<end_date>-</end_date>
+		<director>이선영,김연주,홍진흥,안수진,백지희</director>
+		<writer>고은정,장정윤,이임송,최이슬</writer>
+		<casts>강성연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>예쁘다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>1</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>178</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>괜찮다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>10</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>89</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>궁금하다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>2</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>172</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>가능하다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>3</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>129</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>재밌다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>4</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>122</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>이쁘다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>5</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>121</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>힘들다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>6</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>116</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>높다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>7</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>105</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>뜨겁다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>8</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>104</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11603</href>
+		<word>다양하다</word>
+		<content_id>tv_23087</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>지금, 헤어지는 중입니다</program>
+		<priority>9</priority>
+		<channel>SBS</channel>
+		<days>금</days>
+		<amount>100</amount>
+		<genre>드라마</genre>
+		<start_date>2021.11.12</start_date>
+		<end_date>-</end_date>
+		<director>이길복</director>
+		<writer>제인</writer>
+		<casts>송혜교,장기용,최희서,김주헌,윤정희,박효주,윤나무</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>무섭다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>1</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>59</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>끔찍하다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>10</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>24</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>슬프다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>2</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>55</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>재밌다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>3</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>48</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>힘들다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>4</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>39</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>자세하다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>5</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>37</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>안타깝다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>6</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>31</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>가능하다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>7</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>28</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>엄청나다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>8</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>25</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>11596</href>
+		<word>완전하다</word>
+		<content_id>tv_21047</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>꼬리에 꼬리를 무는 그날 이야기</program>
+		<priority>9</priority>
+		<channel>SBS</channel>
+		<days>목</days>
+		<amount>24</amount>
+		<genre>예능</genre>
+		<start_date>2021.10.21</start_date>
+		<end_date>-</end_date>
+		<director>최삼호,안윤태,유혜승</director>
+		<writer></writer>
+		<casts>장도연,장현성,장성규</casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>맛있다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>1</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>195</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>다양하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>10</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>40</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>유명하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>2</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>61</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>깔끔하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>3</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>60</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>특별하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>4</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>55</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>부드럽다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>5</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>45</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>가능하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>6</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>43</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>궁금하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>7</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>42</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>편하다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>8</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>42</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>127</href>
+		<word>깊다</word>
+		<content_id>tv_2745</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>생활의 달인</program>
+		<priority>9</priority>
+		<channel>SBS</channel>
+		<days>월</days>
+		<amount>41</amount>
+		<genre>예능</genre>
+		<start_date>2005.04.25</start_date>
+		<end_date>-</end_date>
+		<director>이득녕,이상준,김동현,신승환</director>
+		<writer></writer>
+		<casts></casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>맛있다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>1</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>167</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>넓다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>10</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>유명하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>2</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>90</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>다양하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>3</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>51</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>가능하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>4</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>49</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>궁금하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>5</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>45</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>깔끔하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>6</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>41</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>고소하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>7</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>37</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>진하다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>8</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>35</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10661</href>
+		<word>아쉽다</word>
+		<content_id>tv_16444</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>식객 허영만의 백반기행</program>
+		<priority>9</priority>
+		<channel>TV CHOSUN</channel>
+		<days>금</days>
+		<amount>35</amount>
+		<genre>예능</genre>
+		<start_date>2019.05.14</start_date>
+		<end_date>-</end_date>
+		<director>황우광,이문호,조호형,변재길,김지은</director>
+		<writer>강지숙,정지윤,이금섭,천혜인,박주희</writer>
+		<casts>허영만,정보석,김원희,오지호,오상진</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>맛있다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>1</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>80</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>편하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>10</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>29</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>유명하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>2</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>71</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>궁금하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>3</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>53</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>다양하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>4</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>49</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>재밌다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>5</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>36</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>힘들다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>6</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>35</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>자세하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>7</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>33</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>가득하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>8</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>29</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>10343</href>
+		<word>특별하다</word>
+		<content_id>tv_13697</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>유 퀴즈 온 더 블럭</program>
+		<priority>9</priority>
+		<channel>tvN</channel>
+		<days>수</days>
+		<amount>29</amount>
+		<genre>예능</genre>
+		<start_date>2018.08.29</start_date>
+		<end_date>-</end_date>
+		<director>김민석,이정현,강민성,이하나,이승환</director>
+		<writer>이언주,김선희,김나라</writer>
+		<casts>유재석,조세호</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>힘들다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>1</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>89</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>속상하다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>10</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>28</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>아프다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>2</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>73</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>싫다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>3</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>50</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>싫어하다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>4</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>39</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>중요하다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>5</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>39</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>필요하다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>6</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>38</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>불안하다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>7</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>38</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>어렵다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>8</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>34</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+
+	<ROW>
+		<href>11060</href>
+		<word>무섭다</word>
+		<content_id>tv_20179</content_id>
+		<contentset_id>com.lge.meta.crawler.cine21.Cine21Crawler</contentset_id>
+		<program>요즘 육아 금쪽같은 내 새끼</program>
+		<priority>9</priority>
+		<channel>채널A</channel>
+		<days>금</days>
+		<amount>30</amount>
+		<genre>예능</genre>
+		<start_date>2020.05.29</start_date>
+		<end_date>-</end_date>
+		<director></director>
+		<writer></writer>
+		<casts>신애라,오은영,정형돈,장영란,홍현희,박재연</casts>
+	</ROW>
+</DATA>

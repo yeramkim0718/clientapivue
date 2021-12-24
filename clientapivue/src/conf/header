@@ -1,0 +1,35 @@
+pd {
+    v11 {
+    'X-Device-Platform': 'W20O',
+    'X-Device-Product': 'webOSTV 5.0',
+    'X-Device-Sales-Model': 'WEBOS5.0',
+    'X-Device-SDK-VERSION': '5.0.0',
+    'X-Device-FCK': '184',
+    },
+    v12 {
+    'X-Device-Platform': 'W21O',
+    'X-Device-Product': 'webOSTV 6.0',
+    'X-Device-Sales-Model': 'WEBOS6.0',
+    'X-Device-SDK-VERSION': '6.0.0',
+    'X-Device-FCK': '220',
+    }
+
+},
+
+qt2 {
+    v11 {
+    'X-Device-Platform': 'W20O',
+    'X-Device-Product': 'webOSTV 5.0',
+    'X-Device-Sales-Model': 'WEBOS5.0',
+    'X-Device-SDK-VERSION': '5.0.0',
+    'X-Device-FCK': '245',
+    },
+    v12 {
+    'X-Device-Platform': 'W21O',
+    'X-Device-Product': 'webOSTV 6.0',
+    'X-Device-Sales-Model': 'WEBOS6.0',
+    'X-Device-SDK-VERSION': '6.0.0',
+    'X-Device-FCK': '184',
+    }
+
+}

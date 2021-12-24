@@ -1,0 +1,272 @@
+aic
+ko-KR
+time_out
+응답에 오지 않은 값이 있습니다.
+GN0N3KJPYTRB9ZK : ['GN71TDX5HBYYP6P', 'SD 우에스카']GN1HB9XFZ4R9EPG : ['GN71TDX5HBYYP6P', '카디스 CF']GN24S4XKWGV6WNX : ['GN71TDX5HBYYP6P', 'FC 바르셀로나']GN2GXD13RWWHZ5N : ['GN71TDX5HBYYP6P', '그라나다 CF']GN3YGRT0XTM8TG1 : ['GN71TDX5HBYYP6P', '데포르티보 알라베스']GN6Y85BCC5XVQG5 : ['GN71TDX5HBYYP6P', '셀타 데 비고']GN771YEG5NWNRVK : ['GN71TDX5HBYYP6P', '아틀레틱 빌바오']GN77AXTYK718MZ4 : ['GN71TDX5HBYYP6P', '레반테 UD']GN92XWV18KWK5BM : ['GN71TDX5HBYYP6P', '레알 바야돌리드']GN94M1RKSQRSTF9 : ['GN71TDX5HBYYP6P', '헤타페 CF']GN96MCHANA8DV80 : ['GN71TDX5HBYYP6P', '엘체 CF']GNA05JG4T1G8J6Q : ['GN71TDX5HBYYP6P', '아틀레티코 마드리드']GNADX2J4HEVA4WW : ['GN71TDX5HBYYP6P', '세비야 FC']GNB6QXA5JJ6GQD1 : ['GN71TDX5HBYYP6P', '발렌시아 CF']GNBEPA580RSS8G1 : ['GN71TDX5HBYYP6P', 'CA 오사수나']GNBGV10WQ33H9CV : ['GN71TDX5HBYYP6P', '레알 베티스']GNDDXMAJZPWET9S : ['GN71TDX5HBYYP6P', '레알 마드리드']GNEJ416Q7QBTET1 : ['GN71TDX5HBYYP6P', '레알 소시에다드']GNEQFXD02M4SF1X : ['GN71TDX5HBYYP6P', 'SD 에이바르']GNET94Y58H9E5R5 : ['GN71TDX5HBYYP6P', '비야레알 CF']connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+ja-JP
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+fr-FR
+time_out
+응답에 오지 않은 값이 있습니다.
+GN2QKXNCTVXP8EV : ['http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_SPORT_IMG&file_path=/sport/sport/sport_img/GN2QKXNCTVXP8EV_SPORT_BASKETBALL_IMG_v245x326.png', 'http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_LEAGUE_BG_IMG&file_path=/sport/league_bg/league_bg_img/GN3FAZE2HJTVDJ9_LEAGUEBG_BASKETBALL_IMG_v245x326.png', 'Basketball']GN38CMNHHJM1Z26 : ['http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_SPORT_IMG&file_path=/sport/sport/sport_img/GN38CMNHHJM1Z26_SPORT_AMERICAN_FOOTBALL_IMG_v245x326.png', 'http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_LEAGUE_BG_IMG&file_path=/sport/league_bg/league_bg_img/GN38CMNHHJM1Z26_LEAGUEBG_AMERICAN_FOOTBALL_IMG_v245x326.png', 'Football Américain']GN3FAZE2HJTVDJ9 : ['http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_SPORT_IMG&file_path=/sport/sport/sport_img/GN3FAZE2HJTVDJ9_SPORT_BASEBALL_IMG_v245x326.png', 'http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_LEAGUE_BG_IMG&file_path=/sport/league_bg/league_bg_img/GN3FAZE2HJTVDJ9_LEAGUEBG_BASEBALL_IMG_v245x326.png', 'Baseball']GN7XZG4918F8AT5 : ['http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_SPORT_IMG&file_path=/sport/sport/sport_img/GN7XZG4918F8AT5_SPORT_HOCKEY_IMG_v245x326.png', 'http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_LEAGUE_BG_IMG&file_path=/sport/league_bg/league_bg_img/GN7XZG4918F8AT5_LEAGUEBG_HOCKEY_IMG_v245x326.png', 'Hockey sur glace']GNFB17MNF4TH4KM : ['http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_SPORT_IMG&file_path=/sport/sport/sport_img/GNFB17MNF4TH4KM_SPORT_SOCCER_IMG_v245x326.png', 'http://kic-qt2-ngfts.lge.com/fts/gftsDownload.lge?biz_code=SPORT&func_code=SPORT_LEAGUE_BG_IMG&file_path=/sport/league_bg/league_bg_img/GNFB17MNF4TH4KM_LEAGUEBG_SOCCER_IMG_v245x326.png', 'Football']응답에 오지 않은 값이 있습니다.
+GNDBPDTX52Z5QFR : ['https://gsd-image-store.sports.gracenote.com/33AB8BBB4EFC39271590917530A8AAFA1573765973062.png', 'GN2QKXNCTVXP8EV', 'NBA']GN08XD35EQZ5KCP : ['https://gsd-image-store.sports.gracenote.com/B61F6CCDE85162DB055A9F9455829CA31573765897838.png', 'GN38CMNHHJM1Z26', 'NFL']GN9V1DPKVG63Y59 : ['https://gsd-image-store.sports.gracenote.com/8574D7E5D024DF62928B0A8267E6F2B01573765990732.png', 'GN3FAZE2HJTVDJ9', 'KBO']GNCH1JZA56P7PKE : ['https://gsd-image-store.sports.gracenote.com/09D73DE47C15DD9E127A76034DE668121573766075723.png', 'GN3FAZE2HJTVDJ9', 'MLB']GN5RQVPC61QWT4F : ['https://gsd-image-store.sports.gracenote.com/F26BC3EBAF4E76D2A4F842B9A343E3671573765795510.png', 'GN7XZG4918F8AT5', 'NHL']GN71TDX5HBYYP6P : ['https://gsd-image-store.sports.gracenote.com/32DB7E84689881CFA466AB1A91EC107B1574392079850.png', 'GNFB17MNF4TH4KM', 'La Liga']GN74T7959H9DX5H : ['https://gsd-image-store.sports.gracenote.com/E1F14B636B0B0F420167676EC14A2A4E1573764568293.png', 'GNFB17MNF4TH4KM', 'Série A']GN98BZGJZVDZDVN : ['https://gsd-image-store.sports.gracenote.com/51B56B816DD9E3C7CB6A7484D95E9A291573765006009.png', 'GNFB17MNF4TH4KM', 'Premier League']GN9F9MA3NJDXY6G : ['https://gsd-image-store.sports.gracenote.com/D58505C904E01B678F75910B4E25904C7946025457463117.png', 'GNFB17MNF4TH4KM', 'Ligue 1']GNCQPQN27PQKE8E : ['https://gsd-image-store.sports.gracenote.com/96CB7AE536EE05E32761474F581512D11573765472788.png', 'GNFB17MNF4TH4KM', 'Serie A']GNDE3WJSDRDFCGK : ['https://gsd-image-store.sports.gracenote.com/7C2F7E07C49AC84141804A7164C2BF741573765324494.png', 'GNFB17MNF4TH4KM', 'Liga MX']GNERCQM3JWD9RZR : ['https://gsd-image-store.sports.gracenote.com/B992B12510EB0F5E34805A92B49B392D1573764925668.png', 'GNFB17MNF4TH4KM', 'Bundesliga']응답에 오지 않은 값이 있습니다.
+GN02T90537CR7D8 : ['GNDBPDTX52Z5QFR', 'Chicago Bulls']GN0TB5R81W95P30 : ['GNDBPDTX52Z5QFR', 'Detroit Pistons']GN0TZ9Q6CBRDEBH : ['GNDBPDTX52Z5QFR', 'Minnesota Timberwolves']GN0W9A2D4JATA77 : ['GNDBPDTX52Z5QFR', 'Brooklyn Nets']GN25PK1EZZ7G9JE : ['GNDBPDTX52Z5QFR', 'Milwaukee Bucks']GN27WZE8FY6466E : ['GNDBPDTX52Z5QFR', 'Oklahoma City Thunder']GN2DMD3BH4Q3MKT : ['GNDBPDTX52Z5QFR', 'Dallas Mavericks']GN2H2SX1HKF66ZV : ['GNDBPDTX52Z5QFR', 'Cleveland Cavaliers']GN3FEAY7SXP6E5W : ['GNDBPDTX52Z5QFR', 'Denver Nuggets']GN3ZTZ3MBFSVW67 : ['GNDBPDTX52Z5QFR', 'Washington Wizards']GN48W6MFR5BHJRQ : ['GNDBPDTX52Z5QFR', 'L.A. Clippers']GN4R8TW7ZFQ7C9M : ['GNDBPDTX52Z5QFR', 'Memphis Grizzlies']GN852NC2YKJ41FS : ['GNDBPDTX52Z5QFR', 'Phoenix Suns']GN8RN49BZ6VPBMN : ['GNDBPDTX52Z5QFR', 'Boston Celtics']GN90END5MS6XNRR : ['GNDBPDTX52Z5QFR', 'Miami Heat']GN9C15R8ZM0MJ4B : ['GNDBPDTX52Z5QFR', 'San Antonio Spurs']GNA20ANP80PSH35 : ['GNDBPDTX52Z5QFR', 'Orlando Magic']GNAERMXT7SQKNPD : ['GNDBPDTX52Z5QFR', 'Indiana Pacers']GNAZVB8Z59PC013 : ['GNDBPDTX52Z5QFR', 'Sacramento Kings']GNB6W8T0V5BW6QS : ['GNDBPDTX52Z5QFR', 'New York Knicks']GNB760Q140DKF6H : ['GNDBPDTX52Z5QFR', 'Atlanta Hawks']GNCTCP5CEGSDRHG : ['GNDBPDTX52Z5QFR', 'Utah Jazz']GND51T0PX6JEYRD : ['GNDBPDTX52Z5QFR', 'Charlotte Hornets']GND7S070XHWGB45 : ['GNDBPDTX52Z5QFR', 'Los Angeles Lakers']GNDS9HYKVK9TTNM : ['GNDBPDTX52Z5QFR', 'Philadelphia 76ers']GNDYFGDJHHGNA48 : ['GNDBPDTX52Z5QFR', 'Toronto Raptors']GNE1YN2C5XVCQQ8 : ['GNDBPDTX52Z5QFR', 'Golden State Warriors']GNEFR5BYE4WHM1J : ['GNDBPDTX52Z5QFR', 'New Orleans Pelicans']GNF3AWD69EZY7NQ : ['GNDBPDTX52Z5QFR', 'Portland Trail Blazers']GNFP3GV77T9V89W : ['GNDBPDTX52Z5QFR', 'Houston Rockets']GN0366VRTV99KCF : ['GN08XD35EQZ5KCP', 'Tampa Bay Buccaneers']GN0JM5K8PW63TFW : ['GN08XD35EQZ5KCP', 'Los Angeles Chargers']GN1NZ311X4FCY1K : ['GN08XD35EQZ5KCP', 'Washington Football Team']GN2PJKANQEHHSMX : ['GN08XD35EQZ5KCP', 'Denver Broncos']GN2R1T1NS41WKY5 : ['GN08XD35EQZ5KCP', 'Miami Dolphins']GN2RCNDBB6RVBF0 : ['GN08XD35EQZ5KCP', 'San Francisco 49ers']GN3F4594V56DV64 : ['GN08XD35EQZ5KCP', 'Philadelphia Eagles']GN52V04SXCHPAXQ : ['GN08XD35EQZ5KCP', 'Baltimore Ravens']GN622XEDQ6ZZRX7 : ['GN08XD35EQZ5KCP', 'Indianapolis Colts']GN64C09X1ZPKP97 : ['GN08XD35EQZ5KCP', 'Minnesota Vikings']GN65K6H12G27Z5A : ['GN08XD35EQZ5KCP', 'Chicago Bears']GN6TKG1424NKNS2 : ['GN08XD35EQZ5KCP', 'Kansas City Chiefs']GN6YCSSPS1J45VT : ['GN08XD35EQZ5KCP', 'New England Patriots']GN7GGQXJ346WN9H : ['GN08XD35EQZ5KCP', 'New York Jets']GN7J326E50P2BAK : ['GN08XD35EQZ5KCP', 'Tennessee Titans']GN82QKFSGQ3R19S : ['GN08XD35EQZ5KCP', 'New Orleans Saints']GN891E69TZG58V0 : ['GN08XD35EQZ5KCP', 'Buffalo Bills']GN8T1AMWHWM108Y : ['GN08XD35EQZ5KCP', 'Los Angeles Rams']GN8W85Z4042M7MP : ['GN08XD35EQZ5KCP', 'Cleveland Browns']GN9E23819NXXDF6 : ['GN08XD35EQZ5KCP', 'Houston Texans']GN9WNYT00RJT7HR : ['GN08XD35EQZ5KCP', 'Las Vegas Raiders']GNAABVA4ZX308VG : ['GN08XD35EQZ5KCP', 'Arizona Cardinals']GNB7QK5X98NY7XK : ['GN08XD35EQZ5KCP', 'Green Bay Packers']GNBBJCYBP82W4R7 : ['GN08XD35EQZ5KCP', 'New York Giants']GNC6VY3FWDPQA6P : ['GN08XD35EQZ5KCP', 'Jacksonville Jaguars']GNC83515P66EX1C : ['GN08XD35EQZ5KCP', 'Seattle Seahawks']GNCC904W65YVM5Z : ['GN08XD35EQZ5KCP', 'Carolina Panthers']GND9NCTSGC2589A : ['GN08XD35EQZ5KCP', 'Cincinnati Bengals']GNDCJDQC9EE6715 : ['GN08XD35EQZ5KCP', 'Detroit Lions']GNDQ5NYY7TPAYWX : ['GN08XD35EQZ5KCP', 'Dallas Cowboys']GNE37ZV4C2J2ETB : ['GN08XD35EQZ5KCP', 'Atlanta Falcons']GNFMAZX8WD3WJ11 : ['GN08XD35EQZ5KCP', 'Pittsburgh Steelers']GN0ZZCT6TV0TYT6 : ['GN9V1DPKVG63Y59', 'Hanwha Eagles']GN2E29KJ9N2ZTFY : ['GN9V1DPKVG63Y59', 'Kia Tigers']GN2X0K0BVB9X30E : ['GN9V1DPKVG63Y59', 'Kiwoom Heroes']GN34M7GVWV2Q4TS : ['GN9V1DPKVG63Y59', 'LG Twins']GN3PG3VZB8714CN : ['GN9V1DPKVG63Y59', 'Doosan Bears']GN77MGZP4VGH1PR : ['GN9V1DPKVG63Y59', 'SK Wyverns']GNA1PMGNPQVA9ZB : ['GN9V1DPKVG63Y59', 'Lotte Giants']GNBQPQB4DSJKDBR : ['GN9V1DPKVG63Y59', 'NC Dinos']GNBY0PB8SYX67GS : ['GN9V1DPKVG63Y59', 'kt wiz']GNCRJTCK24KHKNC : ['GN9V1DPKVG63Y59', 'Samsung Lions']GN04814SHP6HPKT : ['GNCH1JZA56P7PKE', 'Atlanta Braves']GN04DHRH46GCC5F : ['GNCH1JZA56P7PKE', 'Cleveland Indians']GN0C3KFE3N67S78 : ['GNCH1JZA56P7PKE', 'Miami Marlins']GN0WA1211D61593 : ['GNCH1JZA56P7PKE', 'Tampa Bay Rays']GN0X29KS9NRVP3C : ['GNCH1JZA56P7PKE', 'Los Angeles Angels']GN120J4D59F5X56 : ['GNCH1JZA56P7PKE', 'Houston Astros']GN12QAXTBXWQ557 : ['GNCH1JZA56P7PKE', 'Colorado Rockies']GN2VZP6WF8MVB56 : ['GNCH1JZA56P7PKE', 'Toronto Blue Jays']GN3BZJAJJZHZ7VE : ['GNCH1JZA56P7PKE', 'Washington Nationals']GN3DD2CNJS8MV1Q : ['GNCH1JZA56P7PKE', 'Chicago Cubs']GN3XY02ARYD09XP : ['GNCH1JZA56P7PKE', 'Philadelphia Phillies']GN4M5KGDE89K52W : ['GNCH1JZA56P7PKE', 'St. Louis Cardinals']GN4R36KMXGNNSCP : ['GNCH1JZA56P7PKE', 'Pittsburgh Pirates']GN5DKKJDG87DD5E : ['GNCH1JZA56P7PKE', 'Cincinnati Reds']GN5NECZPE5PAVAV : ['GNCH1JZA56P7PKE', 'San Diego Padres']GN6AB3QAQQG33VY : ['GNCH1JZA56P7PKE', 'Oakland Athletics']GN6WJK31H3QJAB0 : ['GNCH1JZA56P7PKE', 'Chicago White Sox']GN7T8WBGJHGK0D3 : ['GNCH1JZA56P7PKE', 'Boston Red Sox']GN8JCG1MYRAFGGB : ['GNCH1JZA56P7PKE', 'San Francisco Giants']GN9R349YRKRZJQ0 : ['GNCH1JZA56P7PKE', 'New York Mets']GN9ZXQMAP2R64JZ : ['GNCH1JZA56P7PKE', 'Seattle Mariners']GNB40Z502SCB557 : ['GNCH1JZA56P7PKE', 'Detroit Tigers']GNBD0C5WR9TYGH5 : ['GNCH1JZA56P7PKE', 'Minnesota Twins']GNBD4SBRR8DFBM5 : ['GNCH1JZA56P7PKE', 'Baltimore Orioles']GNCBMY18EKXDKVZ : ['GNCH1JZA56P7PKE', 'Kansas City Royals']GNDB1ZNRDEVMWK8 : ['GNCH1JZA56P7PKE', 'Los Angeles Dodgers']GNE07YACHWRV53Z : ['GNCH1JZA56P7PKE', 'Milwaukee Brewers']GNE14NCV2AHBNDG : ['GNCH1JZA56P7PKE', 'Arizona Diamondbacks']GNE34R821XNK29B : ['GNCH1JZA56P7PKE', 'New York Yankees']GNF449VP0S2XJ11 : ['GNCH1JZA56P7PKE', 'Texas Rangers']GN01HDJHZTVK29M : ['GN5RQVPC61QWT4F', 'Pittsburgh Penguins']GN0S4E4SXG9D0MX : ['GN5RQVPC61QWT4F', 'Philadelphia Flyers']GN1E7YR3RHTPXX9 : ['GN5RQVPC61QWT4F', 'Dallas Stars']GN2ECSY4K2D8D30 : ['GN5RQVPC61QWT4F', 'Toronto Maple Leafs']GN3DDQCPREGRWKK : ['GN5RQVPC61QWT4F', 'Ottawa Senators']GN3JCDDK00XXH6D : ['GN5RQVPC61QWT4F', 'Calgary Flames']GN3W582AKPJN7GP : ['GN5RQVPC61QWT4F', 'New York Rangers']GN3W7Z53KQQ0EK8 : ['GN5RQVPC61QWT4F', 'Detroit Red Wings']GN43BNCEP6XS1BZ : ['GN5RQVPC61QWT4F', 'Vancouver Canucks']GN500KA8HP5HGGR : ['GN5RQVPC61QWT4F', 'New Jersey Devils']GN6BXMWPSYPTBNR : ['GN5RQVPC61QWT4F', 'San Jose Sharks']GN6C673THCJP5AW : ['GN5RQVPC61QWT4F', 'St. Louis Blues']GN6F1AWSQS7Y1YC : ['GN5RQVPC61QWT4F', 'Chicago Blackhawks']GN7R9FXX02VAXBC : ['GN5RQVPC61QWT4F', 'Winnipeg Jets']GN8JF286TK1GDN7 : ['GN5RQVPC61QWT4F', 'Tampa Bay Lightning']GN8RAHATDWHV7DC : ['GN5RQVPC61QWT4F', 'Los Angeles Kings']GN9PF9XD9ZA5HWF : ['GN5RQVPC61QWT4F', 'Edmonton Oilers']GNAENGNSB1AN96Y : ['GN5RQVPC61QWT4F', 'New York Islanders']GNAKZR0K5RXK0EE : ['GN5RQVPC61QWT4F', 'Columbus Blue Jackets']GNAZMQ5Q9SVDVHD : ['GN5RQVPC61QWT4F', 'Nashville Predators']GNB2AW7K0DTQP6X : ['GN5RQVPC61QWT4F', 'Anaheim Ducks']GNBZAAA1DMY5T4D : ['GN5RQVPC61QWT4F', 'Carolina Hurricanes']GNCBY7FXEYCKJ3Z : ['GN5RQVPC61QWT4F', 'Colorado Avalanche']GNCCM61N1DPGJ8X : ['GN5RQVPC61QWT4F', 'Washington Capitals']GNCS9PPHYGB039X : ['GN5RQVPC61QWT4F', 'Boston Bruins']GND4YRR9PW2QRFB : ['GN5RQVPC61QWT4F', 'Montreal Canadiens']GND7M06E7YWCJPK : ['GN5RQVPC61QWT4F', 'Vegas Golden Knights']GNDP7E4GQ4XFTM7 : ['GN5RQVPC61QWT4F', 'Florida Panthers']GNDZ4QE95XZKC6R : ['GN5RQVPC61QWT4F', 'Buffalo Sabres']GNFD25BVK1BAXFX : ['GN5RQVPC61QWT4F', 'Arizona Coyotes']GNFER3YBBCWQWMP : ['GN5RQVPC61QWT4F', 'Minnesota Wild']GN0N3KJPYTRB9ZK : ['GN71TDX5HBYYP6P', 'SD Huesca']GN1HB9XFZ4R9EPG : ['GN71TDX5HBYYP6P', 'Cádiz CF']GN24S4XKWGV6WNX : ['GN71TDX5HBYYP6P', 'FC Barcelone']GN2GXD13RWWHZ5N : ['GN71TDX5HBYYP6P', 'Granada CF']GN3YGRT0XTM8TG1 : ['GN71TDX5HBYYP6P', 'Deportivo Alavés']GN6Y85BCC5XVQG5 : ['GN71TDX5HBYYP6P', 'RC Celta']GN771YEG5NWNRVK : ['GN71TDX5HBYYP6P', 'Athletic Club']GN77AXTYK718MZ4 : ['GN71TDX5HBYYP6P', 'Levante UD']GN92XWV18KWK5BM : ['GN71TDX5HBYYP6P', 'Real Valladolid']GN94M1RKSQRSTF9 : ['GN71TDX5HBYYP6P', 'Getafe CF']GN96MCHANA8DV80 : ['GN71TDX5HBYYP6P', 'Elche CF']GNA05JG4T1G8J6Q : ['GN71TDX5HBYYP6P', 'Atlético Madrid']GNADX2J4HEVA4WW : ['GN71TDX5HBYYP6P', 'Sevilla FC']GNB6QXA5JJ6GQD1 : ['GN71TDX5HBYYP6P', 'Valence CF']GNBEPA580RSS8G1 : ['GN71TDX5HBYYP6P', 'CA Osasuna']GNBGV10WQ33H9CV : ['GN71TDX5HBYYP6P', 'Real Betis']GNDDXMAJZPWET9S : ['GN71TDX5HBYYP6P', 'Real Madrid']GNEJ416Q7QBTET1 : ['GN71TDX5HBYYP6P', 'Real Sociedad']GNEQFXD02M4SF1X : ['GN71TDX5HBYYP6P', 'SD Eibar']GNET94Y58H9E5R5 : ['GN71TDX5HBYYP6P', 'Villarreal CF']GN02KCGAAVMQJ1Q : ['GN74T7959H9DX5H', 'Atlético Goianiense']GN05BTHHJ4P5BJK : ['GN74T7959H9DX5H', 'Atlético Mineiro']GN0GDV1MKJRB5BZ : ['GN74T7959H9DX5H', 'Flamengo']GN17F5VC1KTDCKE : ['GN74T7959H9DX5H', 'Coritiba']GN1PEMKV34V6WAJ : ['GN74T7959H9DX5H', 'Grêmio']GN35MD5NEK251AT : ['GN74T7959H9DX5H', 'Goiás']GN3GA4ZT3WV6W8V : ['GN74T7959H9DX5H', 'Botafogo']GN48GFHK05T3KAR : ['GN74T7959H9DX5H', 'Athletico Paranaense']GN4MQ1MB0PT2Q3H : ['GN74T7959H9DX5H', 'Internacional']GN6GMFM2GSZAE3B : ['GN74T7959H9DX5H', 'Fortaleza']GN6JXRAQ543SBG7 : ['GN74T7959H9DX5H', 'Santos']GN6YS35D8F864RZ : ['GN74T7959H9DX5H', 'São Paulo']GN72CE1SCG3FRX2 : ['GN74T7959H9DX5H', 'Sport']GN817EC66TEV66P : ['GN74T7959H9DX5H', 'Fluminense']GN9A8471ST32RFY : ['GN74T7959H9DX5H', 'Palmeiras']GNB7VAWSZGM1XEJ : ['GN74T7959H9DX5H', 'Corinthians']GNBX4VCRNJ54MYA : ['GN74T7959H9DX5H', 'Bahia']GNE435RGYZWP744 : ['GN74T7959H9DX5H', 'Ceará']GNF3NDEBTCMQRM8 : ['GN74T7959H9DX5H', 'Vasco da Gama']GNFZNEYTPKNDMED : ['GN74T7959H9DX5H', 'Red Bull Bragantino']GN0K74GZ3MFC2KN : ['GN98BZGJZVDZDVN', 'Manchester City']GN11X85ZDDYTZM2 : ['GN98BZGJZVDZDVN', 'Fulham']GN14F95R938CTNW : ['GN98BZGJZVDZDVN', 'Southampton']GN1TFC03GZHFQ15 : ['GN98BZGJZVDZDVN', 'Newcastle United']GN24HW7J3YRY9FB : ['GN98BZGJZVDZDVN', 'Crystal Palace']GN3FVY8T5JA2B3G : ['GN98BZGJZVDZDVN', 'Arsenal']GN459E19NZH3YZB : ['GN98BZGJZVDZDVN', 'Burnley']GN4F11Q46TYQ2ES : ['GN98BZGJZVDZDVN', 'Liverpool']GN5C75BFY4QHM8W : ['GN98BZGJZVDZDVN', 'Wolverhampton Wanderers']GN63M621TX687PF : ['GN98BZGJZVDZDVN', 'Sheffield United']GN67C643QVJ7YJ9 : ['GN98BZGJZVDZDVN', 'Manchester United']GN7P9VA881K8MVM : ['GN98BZGJZVDZDVN', 'Leeds United']GN80Y282FW0EY6N : ['GN98BZGJZVDZDVN', 'Tottenham Hotspur']GN93DH831XVYW0J : ['GN98BZGJZVDZDVN', 'Leicester City']GNA061WZ3SSR0XW : ['GN98BZGJZVDZDVN', 'Aston Villa']GNA3A8ZXK59CHZH : ['GN98BZGJZVDZDVN', 'Chelsea']GNBV52ERKHNBDAY : ['GN98BZGJZVDZDVN', 'West Bromwich Albion']GND0ZWYF6SXGN3K : ['GN98BZGJZVDZDVN', 'Everton']GND709YAZ7M12Z8 : ['GN98BZGJZVDZDVN', 'West Ham United']GNF56YJVYNDZBH0 : ['GN98BZGJZVDZDVN', 'Brighton & Hove Albion']GN1N3858E18FMJD : ['GN9F9MA3NJDXY6G', 'Girondins de Bordeaux']GN20X0YX7RBJ8SB : ['GN9F9MA3NJDXY6G', 'RC Strasbourg Alsace']GN2MBEJZ53Z6RR0 : ['GN9F9MA3NJDXY6G', 'Olympique Lyonnais']GN3K8H5KHHGADKZ : ['GN9F9MA3NJDXY6G', 'FC Metz']GN3KPAP4JCB6Y9E : ['GN9F9MA3NJDXY6G', 'Nice']GN40MRM3TKXE6NS : ['GN9F9MA3NJDXY6G', 'SCO Angers']GN57NME6EN77FKV : ['GN9F9MA3NJDXY6G', 'Stade de Reims']GN5FKE7H6KXPNQK : ['GN9F9MA3NJDXY6G', 'Stade Rennais']GN5H5PQTA19538F : ['GN9F9MA3NJDXY6G', 'Lorient']GN65EQTDT3WVHAT : ['GN9F9MA3NJDXY6G', 'Lille OSC']GN6HVD43YQF748J : ['GN9F9MA3NJDXY6G', 'FC Nantes']GN6QPNJQ47ZQ6C9 : ['GN9F9MA3NJDXY6G', 'Nîmes']GNAJGDQ01BDYQG3 : ['GN9F9MA3NJDXY6G', 'Olympique de Marseille']GNB8QN1T0DH5886 : ['GN9F9MA3NJDXY6G', 'AS Saint-Etienne']GNBBFJSXE8187GS : ['GN9F9MA3NJDXY6G', 'Dijon']GNBEQAEEDMDCW2X : ['GN9F9MA3NJDXY6G', 'Stade Brestois']GNBRCBQJ20S2HKW : ['GN9F9MA3NJDXY6G', 'AS Monaco']GNDR7TCTDMX4BZH : ['GN9F9MA3NJDXY6G', 'Montpellier']GNDZFZFSE84KKE5 : ['GN9F9MA3NJDXY6G', 'Paris SG']GNEPY1GQW89GJFM : ['GN9F9MA3NJDXY6G', 'RC Lens']GN0TC7K6KF3S6NM : ['GNCQPQN27PQKE8E', 'SS Lazio']GN2KWHJ1Y3G82M3 : ['GNCQPQN27PQKE8E', 'Benevento']GN3V6KSPDY2KGHY : ['GNCQPQN27PQKE8E', 'Spezia']GN3V7KREVQSWY43 : ['GNCQPQN27PQKE8E', 'Inter']GN5B3712X91EF3B : ['GNCQPQN27PQKE8E', 'Genoa']GN5CA7JVRJAT7DR : ['GNCQPQN27PQKE8E', 'Udinese']GN6C1VCYFRSS5YC : ['GNCQPQN27PQKE8E', 'Crotone']GN726HSZWYRWP6M : ['GNCQPQN27PQKE8E', 'AS Roma']GN7FQJCJ5YPH16G : ['GNCQPQN27PQKE8E', 'Torino']GN7RE1KTCY038N7 : ['GNCQPQN27PQKE8E', 'Cagliari']GN8S67PFQMNJTZT : ['GNCQPQN27PQKE8E', 'Sampdoria']GN9VGV0WEK3VQQS : ['GNCQPQN27PQKE8E', 'Atalanta']GNA0F3FTG0WWQGX : ['GNCQPQN27PQKE8E', 'Juventus']GNAZKWT089M3X2Y : ['GNCQPQN27PQKE8E', 'Napoli']GNDEMP3K2627GTN : ['GNCQPQN27PQKE8E', 'Fiorentina']GNDRAPP8T0AER0V : ['GNCQPQN27PQKE8E', 'Hellas Verona']GNEFVFDJDJ2JGYB : ['GNCQPQN27PQKE8E', 'AC Milan']GNET3R9ZJTDT6Y4 : ['GNCQPQN27PQKE8E', 'Bologna']GNF0M08N521C17R : ['GNCQPQN27PQKE8E', 'Sassuolo']GNF4D2VFPBSTWJZ : ['GNCQPQN27PQKE8E', 'Parma']GN0AKTXC0CXNGMS : ['GNDE3WJSDRDFCGK', 'FC Juárez']GN1553GVQFGMSYR : ['GNDE3WJSDRDFCGK', 'Toluca']GN2HZNFMW6GYJYJ : ['GNDE3WJSDRDFCGK', 'Querétaro']GN2JJS4XR9WFJ5S : ['GNDE3WJSDRDFCGK', 'Pumas UNAM']GN3344BMHKQDWGB : ['GNDE3WJSDRDFCGK', 'Mazatlán FC']GN4R7BH8RVJ0659 : ['GNDE3WJSDRDFCGK', 'Club Puebla']GN6FWKCA8RPWZB3 : ['GNDE3WJSDRDFCGK', 'Atlético San Luis']GN6XXZ3S0NG4B3G : ['GNDE3WJSDRDFCGK', 'Guadalajara']GN7ZTS3TKP123ZN : ['GNDE3WJSDRDFCGK', 'Cruz Azul']GN81F226GKZHT64 : ['GNDE3WJSDRDFCGK', 'Necaxa']GNAPA8RR1MGESP3 : ['GNDE3WJSDRDFCGK', 'Club Tijuana']GNAQ3G83V8PHPS4 : ['GNDE3WJSDRDFCGK', 'Pachuca']GNAR1KP4C8DAAYF : ['GNDE3WJSDRDFCGK', 'Tigres']GNAZFCPGX2FFBFG : ['GNDE3WJSDRDFCGK', 'Atlas']GNBXC1EQXDEXZ40 : ['GNDE3WJSDRDFCGK', 'Monterrey']GNDFKRDEPBR3EQ4 : ['GNDE3WJSDRDFCGK', 'Santos Laguna']GNFM33B89KDT9MG : ['GNDE3WJSDRDFCGK', 'Club América']GNFR3V7Z5GF51EW : ['GNDE3WJSDRDFCGK', 'Club León']GN0X5N7977V8R20 : ['GNERCQM3JWD9RZR', 'Borussia Dortmund']GN1KP3SE6ZR7CX9 : ['GNERCQM3JWD9RZR', 'Hertha BSC']GN1TCZN5F3504EW : ['GNERCQM3JWD9RZR', 'SC Fribourg']GN309FPPR83JTE8 : ['GNERCQM3JWD9RZR', 'Bayer 04 Leverkusen']GN5MXE83515BYKH : ['GNERCQM3JWD9RZR', 'FC Augsburg']GN5YNXPTPX65QPS : ['GNERCQM3JWD9RZR', 'VfL Wolfsburg']GN5ZAC1NMYZQD7B : ['GNERCQM3JWD9RZR', 'Eintracht Francfort']GN6PR4ZZHHC83GT : ['GNERCQM3JWD9RZR', 'RB Leipzig']GN7C4CTVJXKEK7F : ['GNERCQM3JWD9RZR', '1. FC Union Berlin']GN7YRMZH9MHFPTT : ['GNERCQM3JWD9RZR', 'Werder Brême']GN89KQ9AEQ9W07C : ['GNERCQM3JWD9RZR', '1. FC Köln']GN9CXKGSECCTK3E : ['GNERCQM3JWD9RZR', 'Arminia Bielefeld']GNBYS2FDS4JXE85 : ['GNERCQM3JWD9RZR', 'FC Bayern Munich']GNCS1S9A7239PY2 : ['GNERCQM3JWD9RZR', 'FC Schalke 04']GNDJ2NKKGXRKH95 : ['GNERCQM3JWD9RZR', 'VfB Stuttgart']GNDS57VZB22QXYC : ['GNERCQM3JWD9RZR', '1. FSV Mainz 05']GNFPKHJHEDX7V3H : ['GNERCQM3JWD9RZR', 'TSG 1899 Hoffenheim']GNFVBM9R0HWZ3JA : ['GNERCQM3JWD9RZR', 'Borussia Mönchengladbach']time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.es-ES
+time_out
+time_out
+en-US
+time_out
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+de-DE
+time_out
+time_out
+nl-NL
+time_out
+응답에 오지 않은 값이 있습니다.
+GN08XD35EQZ5KCP : ['https://gsd-image-store.sports.gracenote.com/B61F6CCDE85162DB055A9F9455829CA31573765897838.png', 'GN38CMNHHJM1Z26', 'NFL']응답에 오지 않은 값이 있습니다.
+GN0366VRTV99KCF : ['GN08XD35EQZ5KCP', 'Tampa Bay Buccaneers']GN0JM5K8PW63TFW : ['GN08XD35EQZ5KCP', 'Los Angeles Chargers']GN1NZ311X4FCY1K : ['GN08XD35EQZ5KCP', 'Washington Football Team']GN2PJKANQEHHSMX : ['GN08XD35EQZ5KCP', 'Denver Broncos']GN2R1T1NS41WKY5 : ['GN08XD35EQZ5KCP', 'Miami Dolphins']GN2RCNDBB6RVBF0 : ['GN08XD35EQZ5KCP', 'San Francisco 49ers']GN3F4594V56DV64 : ['GN08XD35EQZ5KCP', 'Philadelphia Eagles']GN52V04SXCHPAXQ : ['GN08XD35EQZ5KCP', 'Baltimore Ravens']GN622XEDQ6ZZRX7 : ['GN08XD35EQZ5KCP', 'Indianapolis Colts']GN64C09X1ZPKP97 : ['GN08XD35EQZ5KCP', 'Minnesota Vikings']GN65K6H12G27Z5A : ['GN08XD35EQZ5KCP', 'Chicago Bears']GN6TKG1424NKNS2 : ['GN08XD35EQZ5KCP', 'Kansas City Chiefs']GN6YCSSPS1J45VT : ['GN08XD35EQZ5KCP', 'New England Patriots']GN7GGQXJ346WN9H : ['GN08XD35EQZ5KCP', 'New York Jets']GN7J326E50P2BAK : ['GN08XD35EQZ5KCP', 'Tennessee Titans']GN82QKFSGQ3R19S : ['GN08XD35EQZ5KCP', 'New Orleans Saints']GN891E69TZG58V0 : ['GN08XD35EQZ5KCP', 'Buffalo Bills']GN8T1AMWHWM108Y : ['GN08XD35EQZ5KCP', 'Los Angeles Rams']GN8W85Z4042M7MP : ['GN08XD35EQZ5KCP', 'Cleveland Browns']GN9E23819NXXDF6 : ['GN08XD35EQZ5KCP', 'Houston Texans']GN9WNYT00RJT7HR : ['GN08XD35EQZ5KCP', 'Las Vegas Raiders']GNAABVA4ZX308VG : ['GN08XD35EQZ5KCP', 'Arizona Cardinals']GNB7QK5X98NY7XK : ['GN08XD35EQZ5KCP', 'Green Bay Packers']GNBBJCYBP82W4R7 : ['GN08XD35EQZ5KCP', 'New York Giants']GNC6VY3FWDPQA6P : ['GN08XD35EQZ5KCP', 'Jacksonville Jaguars']GNC83515P66EX1C : ['GN08XD35EQZ5KCP', 'Seattle Seahawks']GNCC904W65YVM5Z : ['GN08XD35EQZ5KCP', 'Carolina Panthers']GND9NCTSGC2589A : ['GN08XD35EQZ5KCP', 'Cincinnati Bengals']GNDCJDQC9EE6715 : ['GN08XD35EQZ5KCP', 'Detroit Lions']GNDQ5NYY7TPAYWX : ['GN08XD35EQZ5KCP', 'Dallas Cowboys']GNE37ZV4C2J2ETB : ['GN08XD35EQZ5KCP', 'Atlanta Falcons']GNFMAZX8WD3WJ11 : ['GN08XD35EQZ5KCP', 'Pittsburgh Steelers']time_out
+time_out
+time_out
+time_out
+eic
+ko-KR
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.ja-JP
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.fr-FR
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.es-ES
+time_out
+응답에 오지 않은 값이 있습니다.
+GN71TDX5HBYYP6P : ['https://gsd-image-store.sports.gracenote.com/32DB7E84689881CFA466AB1A91EC107B1574392079850.png', 'GNFB17MNF4TH4KM', 'La Liga']GN74T7959H9DX5H : ['https://gsd-image-store.sports.gracenote.com/E1F14B636B0B0F420167676EC14A2A4E1573764568293.png', 'GNFB17MNF4TH4KM', 'Série A']GN98BZGJZVDZDVN : ['https://gsd-image-store.sports.gracenote.com/51B56B816DD9E3C7CB6A7484D95E9A291573765006009.png', 'GNFB17MNF4TH4KM', 'Premier League']GN9F9MA3NJDXY6G : ['https://gsd-image-store.sports.gracenote.com/D58505C904E01B678F75910B4E25904C7946025457463117.png', 'GNFB17MNF4TH4KM', 'Ligue 1']GNCQPQN27PQKE8E : ['https://gsd-image-store.sports.gracenote.com/96CB7AE536EE05E32761474F581512D11573765472788.png', 'GNFB17MNF4TH4KM', 'Serie A']GNDE3WJSDRDFCGK : ['https://gsd-image-store.sports.gracenote.com/7C2F7E07C49AC84141804A7164C2BF741573765324494.png', 'GNFB17MNF4TH4KM', 'Liga MX']GNERCQM3JWD9RZR : ['https://gsd-image-store.sports.gracenote.com/B992B12510EB0F5E34805A92B49B392D1573764925668.png', 'GNFB17MNF4TH4KM', 'Bundesliga']응답에 오지 않은 값이 있습니다.
+GN0N3KJPYTRB9ZK : ['GN71TDX5HBYYP6P', 'SD Huesca']GN1HB9XFZ4R9EPG : ['GN71TDX5HBYYP6P', 'Cádiz CF']GN24S4XKWGV6WNX : ['GN71TDX5HBYYP6P', 'FC Barcelona']GN2GXD13RWWHZ5N : ['GN71TDX5HBYYP6P', 'Granada CF']GN3YGRT0XTM8TG1 : ['GN71TDX5HBYYP6P', 'Deportivo Alavés']GN6Y85BCC5XVQG5 : ['GN71TDX5HBYYP6P', 'RC Celta']GN771YEG5NWNRVK : ['GN71TDX5HBYYP6P', 'Athletic Club']GN77AXTYK718MZ4 : ['GN71TDX5HBYYP6P', 'Levante UD']GN92XWV18KWK5BM : ['GN71TDX5HBYYP6P', 'Real Valladolid']GN94M1RKSQRSTF9 : ['GN71TDX5HBYYP6P', 'Getafe CF']GN96MCHANA8DV80 : ['GN71TDX5HBYYP6P', 'Elche CF']GNA05JG4T1G8J6Q : ['GN71TDX5HBYYP6P', 'Atlético de Madrid']GNADX2J4HEVA4WW : ['GN71TDX5HBYYP6P', 'Sevilla FC']GNB6QXA5JJ6GQD1 : ['GN71TDX5HBYYP6P', 'Valencia CF']GNBEPA580RSS8G1 : ['GN71TDX5HBYYP6P', 'CA Osasuna']GNBGV10WQ33H9CV : ['GN71TDX5HBYYP6P', 'Real Betis']GNDDXMAJZPWET9S : ['GN71TDX5HBYYP6P', 'Real Madrid']GNEJ416Q7QBTET1 : ['GN71TDX5HBYYP6P', 'Real Sociedad']GNEQFXD02M4SF1X : ['GN71TDX5HBYYP6P', 'SD Eibar']GNET94Y58H9E5R5 : ['GN71TDX5HBYYP6P', 'Villarreal CF']GN02KCGAAVMQJ1Q : ['GN74T7959H9DX5H', 'Atlético Goianiense']GN05BTHHJ4P5BJK : ['GN74T7959H9DX5H', 'Atlético Mineiro']GN0GDV1MKJRB5BZ : ['GN74T7959H9DX5H', 'Flamengo']GN17F5VC1KTDCKE : ['GN74T7959H9DX5H', 'Coritiba']GN1PEMKV34V6WAJ : ['GN74T7959H9DX5H', 'Grêmio']GN35MD5NEK251AT : ['GN74T7959H9DX5H', 'Goiás']GN3GA4ZT3WV6W8V : ['GN74T7959H9DX5H', 'Botafogo']GN48GFHK05T3KAR : ['GN74T7959H9DX5H', 'Athletico Paranaense']GN4MQ1MB0PT2Q3H : ['GN74T7959H9DX5H', 'Internacional']GN6GMFM2GSZAE3B : ['GN74T7959H9DX5H', 'Fortaleza']GN6JXRAQ543SBG7 : ['GN74T7959H9DX5H', 'Santos']GN6YS35D8F864RZ : ['GN74T7959H9DX5H', 'São Paulo']GN72CE1SCG3FRX2 : ['GN74T7959H9DX5H', 'Sport']GN817EC66TEV66P : ['GN74T7959H9DX5H', 'Fluminense']GN9A8471ST32RFY : ['GN74T7959H9DX5H', 'Palmeiras']GNB7VAWSZGM1XEJ : ['GN74T7959H9DX5H', 'Corinthians']GNBX4VCRNJ54MYA : ['GN74T7959H9DX5H', 'Bahia']GNE435RGYZWP744 : ['GN74T7959H9DX5H', 'Ceará']GNF3NDEBTCMQRM8 : ['GN74T7959H9DX5H', 'Vasco da Gama']GNFZNEYTPKNDMED : ['GN74T7959H9DX5H', 'Red Bull Bragantino']GN0K74GZ3MFC2KN : ['GN98BZGJZVDZDVN', 'Manchester City']GN11X85ZDDYTZM2 : ['GN98BZGJZVDZDVN', 'Fulham']GN14F95R938CTNW : ['GN98BZGJZVDZDVN', 'Southampton']GN1TFC03GZHFQ15 : ['GN98BZGJZVDZDVN', 'Newcastle United']GN24HW7J3YRY9FB : ['GN98BZGJZVDZDVN', 'Crystal Palace']GN3FVY8T5JA2B3G : ['GN98BZGJZVDZDVN', 'Arsenal']GN459E19NZH3YZB : ['GN98BZGJZVDZDVN', 'Burnley']GN4F11Q46TYQ2ES : ['GN98BZGJZVDZDVN', 'Liverpool']GN5C75BFY4QHM8W : ['GN98BZGJZVDZDVN', 'Wolverhampton Wanderers']GN63M621TX687PF : ['GN98BZGJZVDZDVN', 'Sheffield United']GN67C643QVJ7YJ9 : ['GN98BZGJZVDZDVN', 'Manchester United']GN7P9VA881K8MVM : ['GN98BZGJZVDZDVN', 'Leeds United']GN80Y282FW0EY6N : ['GN98BZGJZVDZDVN', 'Tottenham Hotspur']GN93DH831XVYW0J : ['GN98BZGJZVDZDVN', 'Leicester City']GNA061WZ3SSR0XW : ['GN98BZGJZVDZDVN', 'Aston Villa']GNA3A8ZXK59CHZH : ['GN98BZGJZVDZDVN', 'Chelsea']GNBV52ERKHNBDAY : ['GN98BZGJZVDZDVN', 'West Bromwich Albion']GND0ZWYF6SXGN3K : ['GN98BZGJZVDZDVN', 'Everton']GND709YAZ7M12Z8 : ['GN98BZGJZVDZDVN', 'West Ham United']GNF56YJVYNDZBH0 : ['GN98BZGJZVDZDVN', 'Brighton & Hove Albion']GN1N3858E18FMJD : ['GN9F9MA3NJDXY6G', 'Girondins de Burdeos']GN20X0YX7RBJ8SB : ['GN9F9MA3NJDXY6G', 'RC Estrasburgo Alsacia']GN2MBEJZ53Z6RR0 : ['GN9F9MA3NJDXY6G', 'Olympique de Lyon']GN3K8H5KHHGADKZ : ['GN9F9MA3NJDXY6G', 'FC Metz']GN3KPAP4JCB6Y9E : ['GN9F9MA3NJDXY6G', 'OGC Niza']GN40MRM3TKXE6NS : ['GN9F9MA3NJDXY6G', 'Angers SCO']GN57NME6EN77FKV : ['GN9F9MA3NJDXY6G', 'Stade de Reims']GN5FKE7H6KXPNQK : ['GN9F9MA3NJDXY6G', 'Stade Rennais']GN5H5PQTA19538F : ['GN9F9MA3NJDXY6G', 'FC Lorient']GN65EQTDT3WVHAT : ['GN9F9MA3NJDXY6G', 'Lille OSC']GN6HVD43YQF748J : ['GN9F9MA3NJDXY6G', 'FC Nantes']GN6QPNJQ47ZQ6C9 : ['GN9F9MA3NJDXY6G', 'Nîmes Olympique']GNAJGDQ01BDYQG3 : ['GN9F9MA3NJDXY6G', 'Olympique de Marsella']GNB8QN1T0DH5886 : ['GN9F9MA3NJDXY6G', 'AS Saint-Etienne']GNBBFJSXE8187GS : ['GN9F9MA3NJDXY6G', 'Dijon FCO']GNBEQAEEDMDCW2X : ['GN9F9MA3NJDXY6G', 'Stade Brestois']GNBRCBQJ20S2HKW : ['GN9F9MA3NJDXY6G', 'AS Monaco']GNDR7TCTDMX4BZH : ['GN9F9MA3NJDXY6G', 'Montpellier HSC']GNDZFZFSE84KKE5 : ['GN9F9MA3NJDXY6G', 'París Saint-Germain']GNEPY1GQW89GJFM : ['GN9F9MA3NJDXY6G', 'RC Lens']GN0TC7K6KF3S6NM : ['GNCQPQN27PQKE8E', 'SS Lazio']GN2KWHJ1Y3G82M3 : ['GNCQPQN27PQKE8E', 'Benevento']GN3V6KSPDY2KGHY : ['GNCQPQN27PQKE8E', 'Spezia']GN3V7KREVQSWY43 : ['GNCQPQN27PQKE8E', 'Inter de Milán']GN5B3712X91EF3B : ['GNCQPQN27PQKE8E', 'Génova']GN5CA7JVRJAT7DR : ['GNCQPQN27PQKE8E', 'Udinese']GN6C1VCYFRSS5YC : ['GNCQPQN27PQKE8E', 'Crotone']GN726HSZWYRWP6M : ['GNCQPQN27PQKE8E', 'AS Roma']GN7FQJCJ5YPH16G : ['GNCQPQN27PQKE8E', 'Torino']GN7RE1KTCY038N7 : ['GNCQPQN27PQKE8E', 'Cagliari']GN8S67PFQMNJTZT : ['GNCQPQN27PQKE8E', 'Sampdoria']GN9VGV0WEK3VQQS : ['GNCQPQN27PQKE8E', 'Atalanta']GNA0F3FTG0WWQGX : ['GNCQPQN27PQKE8E', 'Juventus']GNAZKWT089M3X2Y : ['GNCQPQN27PQKE8E', 'Nápoles']GNDEMP3K2627GTN : ['GNCQPQN27PQKE8E', 'Fiorentina']GNDRAPP8T0AER0V : ['GNCQPQN27PQKE8E', 'Hellas Verona']GNEFVFDJDJ2JGYB : ['GNCQPQN27PQKE8E', 'AC Milán']GNET3R9ZJTDT6Y4 : ['GNCQPQN27PQKE8E', 'Bolonia']GNF0M08N521C17R : ['GNCQPQN27PQKE8E', 'Sassuolo']GNF4D2VFPBSTWJZ : ['GNCQPQN27PQKE8E', 'Parma']GN0AKTXC0CXNGMS : ['GNDE3WJSDRDFCGK', 'FC Juárez']GN1553GVQFGMSYR : ['GNDE3WJSDRDFCGK', 'Toluca']GN2HZNFMW6GYJYJ : ['GNDE3WJSDRDFCGK', 'Querétaro']GN2JJS4XR9WFJ5S : ['GNDE3WJSDRDFCGK', 'Pumas UNAM']GN3344BMHKQDWGB : ['GNDE3WJSDRDFCGK', 'Mazatlán FC']GN4R7BH8RVJ0659 : ['GNDE3WJSDRDFCGK', 'Club Puebla']GN6FWKCA8RPWZB3 : ['GNDE3WJSDRDFCGK', 'Atlético San Luis']GN6XXZ3S0NG4B3G : ['GNDE3WJSDRDFCGK', 'Guadalajara']GN7ZTS3TKP123ZN : ['GNDE3WJSDRDFCGK', 'Cruz Azul']GN81F226GKZHT64 : ['GNDE3WJSDRDFCGK', 'Necaxa']GNAPA8RR1MGESP3 : ['GNDE3WJSDRDFCGK', 'Club Tijuana']GNAQ3G83V8PHPS4 : ['GNDE3WJSDRDFCGK', 'Pachuca']GNAR1KP4C8DAAYF : ['GNDE3WJSDRDFCGK', 'Tigres']GNAZFCPGX2FFBFG : ['GNDE3WJSDRDFCGK', 'Atlas']GNBXC1EQXDEXZ40 : ['GNDE3WJSDRDFCGK', 'Monterrey']GNDFKRDEPBR3EQ4 : ['GNDE3WJSDRDFCGK', 'Santos Laguna']GNFM33B89KDT9MG : ['GNDE3WJSDRDFCGK', 'Club América']GNFR3V7Z5GF51EW : ['GNDE3WJSDRDFCGK', 'Club León']GN0X5N7977V8R20 : ['GNERCQM3JWD9RZR', 'Borussia Dortmund']GN1KP3SE6ZR7CX9 : ['GNERCQM3JWD9RZR', 'Hertha BSC']GN1TCZN5F3504EW : ['GNERCQM3JWD9RZR', 'SC Friburgo']GN309FPPR83JTE8 : ['GNERCQM3JWD9RZR', 'Bayer 04 Leverkusen']GN5MXE83515BYKH : ['GNERCQM3JWD9RZR', 'FC Ausburgo']GN5YNXPTPX65QPS : ['GNERCQM3JWD9RZR', 'VfL Wolfsburgo']GN5ZAC1NMYZQD7B : ['GNERCQM3JWD9RZR', 'Eintracht Frankfurt']GN6PR4ZZHHC83GT : ['GNERCQM3JWD9RZR', 'RB Leipzig']GN7C4CTVJXKEK7F : ['GNERCQM3JWD9RZR', '1. FC Union Berlin']GN7YRMZH9MHFPTT : ['GNERCQM3JWD9RZR', 'Werder Bremen']GN89KQ9AEQ9W07C : ['GNERCQM3JWD9RZR', '1. FC Colonia']GN9CXKGSECCTK3E : ['GNERCQM3JWD9RZR', 'Arminia Bielefeld']GNBYS2FDS4JXE85 : ['GNERCQM3JWD9RZR', 'FC Bayern de Munich']GNCS1S9A7239PY2 : ['GNERCQM3JWD9RZR', 'FC Schalke 04']GNDJ2NKKGXRKH95 : ['GNERCQM3JWD9RZR', 'VfB Stuttgart']GNDS57VZB22QXYC : ['GNERCQM3JWD9RZR', '1. FSV Mainz 05']GNFPKHJHEDX7V3H : ['GNERCQM3JWD9RZR', 'TSG 1899 Hoffenheim']GNFVBM9R0HWZ3JA : ['GNERCQM3JWD9RZR', 'Borussia Mönchengladbach']time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.en-US
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+de-DE
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+nl-NL
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.응답에 오지 않은 값이 있습니다.
+GNDBPDTX52Z5QFR : ['https://gsd-image-store.sports.gracenote.com/33AB8BBB4EFC39271590917530A8AAFA1573765973062.png', 'GN2QKXNCTVXP8EV', 'NBA']응답에 오지 않은 값이 있습니다.
+GN02T90537CR7D8 : ['GNDBPDTX52Z5QFR', 'Chicago Bulls']GN0TB5R81W95P30 : ['GNDBPDTX52Z5QFR', 'Detroit Pistons']GN0TZ9Q6CBRDEBH : ['GNDBPDTX52Z5QFR', 'Minnesota Timberwolves']GN0W9A2D4JATA77 : ['GNDBPDTX52Z5QFR', 'Brooklyn Nets']GN25PK1EZZ7G9JE : ['GNDBPDTX52Z5QFR', 'Milwaukee Bucks']GN27WZE8FY6466E : ['GNDBPDTX52Z5QFR', 'Oklahoma City Thunder']GN2DMD3BH4Q3MKT : ['GNDBPDTX52Z5QFR', 'Dallas Mavericks']GN2H2SX1HKF66ZV : ['GNDBPDTX52Z5QFR', 'Cleveland Cavaliers']GN3FEAY7SXP6E5W : ['GNDBPDTX52Z5QFR', 'Denver Nuggets']GN3ZTZ3MBFSVW67 : ['GNDBPDTX52Z5QFR', 'Washington Wizards']GN48W6MFR5BHJRQ : ['GNDBPDTX52Z5QFR', 'L.A. Clippers']GN4R8TW7ZFQ7C9M : ['GNDBPDTX52Z5QFR', 'Memphis Grizzlies']GN852NC2YKJ41FS : ['GNDBPDTX52Z5QFR', 'Phoenix Suns']GN8RN49BZ6VPBMN : ['GNDBPDTX52Z5QFR', 'Boston Celtics']GN90END5MS6XNRR : ['GNDBPDTX52Z5QFR', 'Miami Heat']GN9C15R8ZM0MJ4B : ['GNDBPDTX52Z5QFR', 'San Antonio Spurs']GNA20ANP80PSH35 : ['GNDBPDTX52Z5QFR', 'Orlando Magic']GNAERMXT7SQKNPD : ['GNDBPDTX52Z5QFR', 'Indiana Pacers']GNAZVB8Z59PC013 : ['GNDBPDTX52Z5QFR', 'Sacramento Kings']GNB6W8T0V5BW6QS : ['GNDBPDTX52Z5QFR', 'New York Knicks']GNB760Q140DKF6H : ['GNDBPDTX52Z5QFR', 'Atlanta Hawks']GNCTCP5CEGSDRHG : ['GNDBPDTX52Z5QFR', 'Utah Jazz']GND51T0PX6JEYRD : ['GNDBPDTX52Z5QFR', 'Charlotte Hornets']GND7S070XHWGB45 : ['GNDBPDTX52Z5QFR', 'Los Angeles Lakers']GNDS9HYKVK9TTNM : ['GNDBPDTX52Z5QFR', 'Philadelphia 76ers']GNDYFGDJHHGNA48 : ['GNDBPDTX52Z5QFR', 'Toronto Raptors']GNE1YN2C5XVCQQ8 : ['GNDBPDTX52Z5QFR', 'Golden State Warriors']GNEFR5BYE4WHM1J : ['GNDBPDTX52Z5QFR', 'New Orleans Pelicans']GNF3AWD69EZY7NQ : ['GNDBPDTX52Z5QFR', 'Portland Trail Blazers']GNFP3GV77T9V89W : ['GNDBPDTX52Z5QFR', 'Houston Rockets']time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.kic
+ko-KR
+ja-JP
+fr-FR
+es-ES
+en-US
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+de-DE
+nl-NL

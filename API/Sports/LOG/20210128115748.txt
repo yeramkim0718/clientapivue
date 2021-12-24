@@ -1,0 +1,824 @@
+aic
+ko-KR
+getSportList
+getSportProgramList
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+ja-JP
+getSportList
+getSportProgramList
+time_out
+time_out
+time_out
+time_out
+fr-FR
+getSportList
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+es-ES
+getSportList
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+en-US
+getSportList
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+getSportList
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+de-DE
+getSportList
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+nl-NL
+getSportList
+getSportProgramList
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+eic
+ko-KR
+getSportList
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+ja-JP
+getSportList
+time_out
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+fr-FR
+getSportList
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+getSportProgramList
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+es-ES
+getSportList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+en-US
+getSportList
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+getSportList
+time_out
+time_out
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+de-DE
+getSportList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+getSportProgramList
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+nl-NL
+getSportList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+getSportProgramList
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+time_out
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+connection_error : 같은 IP로부터 짧은시간에 너무 많은 요청을 보냄.
+time_out
+kic
+ko-KR
+getSportList
+getSportProgramList
+ja-JP
+getSportList
+getSportProgramList
+fr-FR
+getSportList
+getSportProgramList
+es-ES
+getSportList
+getSportProgramList
+en-US
+getSportList
+getSportProgramList
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+getSportList
+getSportProgramList
+de-DE
+getSportList
+getSportProgramList
+nl-NL
+getSportList
+getSportProgramList

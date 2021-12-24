@@ -1,0 +1,69 @@
+kic
+ko-KR
+ja-JP
+fr-FR
+es-ES
+en-US
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GN2MBEJZ53Z6RR0 Olympique Lyon
+원래 값 : Olympique Lyonnais
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNBEQAEEDMDCW2X Stade Brest
+원래 값 : Stade Brestois
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+team id와 name이 맞지 않습니다. 
+응답 값 : GNAJGDQ01BDYQG3 Olympique Marseille
+원래 값 : Olympique de Marseille
+en-GB
+de-DE
+nl-NL
+aic
+ko-KR
+ja-JP
+fr-FR
+es-ES
+en-US
