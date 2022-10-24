@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<h4 style="line-height: 1.15;"><strong><span style='font-size: 18px; font-family:나눔고딕'>Sports</span></strong></h4>
+
+<p style='font-size: 13px; font-family:나눔고딕'>{{date}}</p>
+<p style='font-size: 13px; font-family:나눔고딕'>총{{num}}게임</p>
+
+<p style='font-size: 18px; font-family:나눔고딕'><strong><h5> 1. 지난 경기 Status 모니터링</h5></strong></p>
+{% if status_err|length == 0 %}
+<p style='font-size: 13px; font-family:나눔고딕'>결과 :  모두 completed임.</p>
+{% else %}
+<p style='font-size: 13px; font-family:나눔고딕'>결과 : {{status_err|length}}개의 status 이상 발견.</p>
+{% endif %}
+{% for err in status_err %}
+<p style='font-size: 13px; font-family:나눔고딕'>{{loop.index}}) {{err.game}} </p>
+    {% if err.link %}
+    <p style='font-size: 13px; font-family:나눔고딕'>검토 결과 : 경기 존재</p>
+    <p style='font-size: 13px; font-family:나눔고딕'>링크 : {{err.link}}</p>
+    {% else %}
+    <p style='font-size: 13px; font-family:나눔고딕'>검토 결과 : 경기 비존재</p>
+    {% endif %}
+{% endfor %}
+
+<p style='font-size: 18px; font-family:나눔고딕'><strong><h5> 2. 지난 경기 Score 모니터링</h5></strong></p>
+{% if score_err|length == 0 %} 
+<p style='font-size: 13px; font-family:나눔고딕'>결과 : 모두 일치.</p>
+{% else %} 
+<p style='font-size: 13px; font-family:나눔고딕'>결과 : {{score_err|length}}개의 스코어 에러 경기존재. </p>
+{% endif %}
+
+{% for league,score in score_results.items() %}
+<p style='font-size: 13px; font-family:나눔고딕'>{{league}} 일치 : {{score[0]}} 불일치 : {{score[1]}}</p>
+{% endfor %}
+
+{% for err in score_err %}
+<p style='font-size: 13px; font-family:나눔고딕'>{{loop.index}}) {{err}}</p>
+{% endfor %}
+
+<p style='font-size: 18px; font-family:나눔고딕'><strong><h5>3. Push 모니터링</h5></strong></p>
+{% if push_err|length == 0 %}
+<p style='font-size: 13px; font-family:나눔고딕'>결과 : 모두 일치.</p>
+{% else %}
+<p style='font-size: 13px; font-family:나눔고딕'>결과 : {{push_err|length}}개의 불일치 경기존재. </p>
+{% endif %}
+<p style='font-size: 13px; font-family:나눔고딕'>일치 : {{push_results[1]}} 불일치 : {{push_results[2]}}</p>
+{% for err in push_err %}
+<p style='font-size: 13px; font-family:나눔고딕'>{{loop.index}}) {{err[0]}} </p>
+<p style='font-size: 13px; font-family:나눔고딕'>DB 푸쉬 : {{err[1]}} </p>
+<p style='font-size: 13px; font-family:나눔고딕'>WEB 푸쉬 : {{err[2]}} </p>
+<p style='font-size: 13px; font-family:나눔고딕'>링크 : {{err[3]}} </p>
+
+
+{% endfor %}
+
+<p><h4><span style="font-size: 16px;font-family:나눔고딕"><strong>[모니터링 대상 전체 경기 목록]</strong></span></h4></p>
+
+<table style="width: 100%; border-collapse: collapse; border-top: 1px;text-align:center; border-bottom : 1px;font-size: 13px;font-family:나눔고딕">
+    <thead>
+        <tr style = "background-color :#ebdee4;font-weight: bold">
+            <td style="margin:auto;text-align:center;border: 1px solid"></td>
+            <td style="margin:auto;text-align:center;border: 1px solid">경기 ID</td>
+            <td style="margin:auto;text-align:center; border: 1px solid">경기 시작(GMT +0)</td>
+            <td style="margin:auto;text-align:center; border: 1px solid">리그명</td>
+            <td style="margin:auto;text-align:center; border: 1px solid">스포츠명</td>
+            <td style="margin:auto;text-align:center; border: 1px solid">홈팀</td>
+            <td style="margin:auto;text-align:center; border: 1px solid">어웨이팀</td>
+           </tr> 
+    </thead>
+
+    <tbody style =  "border-collapse: collapse; border: 1px solid;">
+        {% for game in games -%}
+        <style>
+            .red {
+                font-style :bold;
+                font-size :14px;
+                font-family:나눔고딕;
+                border : 1px solid;
+                background-color: rgb(250, 158, 173);
+
+            }
+            .black {
+                border : 1px solid;
+                font-family:나눔고딕;
+                background-color :#ebdee4;
+            }
+        </style>
+       <tr >
+        <td class="{{'red' if game[6] == True else 'black'}}">{{loop.index}} </td>
+        <td class="{{'red' if game[6] == True else 'black'}}"> {{game[0]}} </td>
+        <td class="{{'red' if game[6] == True else 'black'}}"> {{game[1]}}</td>
+        <td class="{{'red' if game[6] == True else 'black'}}">{{game[2]}}</td>
+        <td class="{{'red' if game[6] == True else 'black'}}">{{game[3]}}</td>
+        <td class="{{'red' if game[6] == True else 'black'}}">{{game[4]}}</td>
+        <td class="{{'red' if game[6] == True else 'black'}}">{{game[5]}}</td>
+       </tr> 
+    {% endfor %}
+</tbody>
+</table>
+
+
+</html>
